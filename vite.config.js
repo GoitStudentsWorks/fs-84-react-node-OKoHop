@@ -12,5 +12,5 @@ export default defineConfig({
           assets: '/src/assets'
         },
       },
-      base: '/healthy_hub/',
+      base: '/fs-84-react-node-OKoHop/',
     });
