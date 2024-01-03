@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <ThemeProvider theme={theme}>
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
-          <BrowserRouter basename="/healthy_hub">
+          <BrowserRouter basename="/fs-84-react-node-OKoHop">
             <App />
             <GlobalStyle />
             <Toaster position="top-center" reverseOrder={false} />
